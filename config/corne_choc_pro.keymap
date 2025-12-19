@@ -84,7 +84,7 @@
             bindings = <
 &trans  &kp KP_MULTIPLY  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp KP_MINUS  &bt BT_SEL 0  &bt BT_SEL 2  &bootloader  &trans    &kp UP_ARROW  &trans      &trans     &kp DELETE
 &trans  &kp KP_PLUS      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp KP_EQUAL  &bt BT_SEL 1  &bt BT_SEL 3  &trans       &kp LEFT  &kp DOWN      &kp RIGHT   &trans     &trans
-&trans  &trans           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans                                    &trans       &trans    &kp COMMA     &kp PERIOD  &kp SLASH  &trans
+&trans  &trans           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans                                    &mkp MB1     &trans    &kp COMMA     &kp PERIOD  &kp SLASH  &trans
                                        &trans        &kp NUMBER_0  &trans                                    &trans       &trans    &trans
             >;
         };
